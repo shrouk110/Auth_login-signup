@@ -43,33 +43,37 @@ This project implements **Login**, **Sign Up**, and **Logout** flows with **form
 lib/
 │
 ├── features/
-│ ├── auth/
-│ │ ├── bloc/
-│ │ │ ├── login_bloc.dart
-│ │ │ ├── login_event.dart
-│ │ │ └── login_state.dart
-│ │ ├── models/
-│ │ │ └── auth_repo.dart
-│ │ ├── forget_password_row.dart
-│ │ └── login_screen.dart
-│ │
-│ ├── singup/
-│ │ ├── bloc/
-│ │ │ ├── signup_bloc.dart
-│ │ │ ├── signup_event.dart
-│ │ │ └── signup_state.dart
-│ │ └── screens/
-│ │ └── sing_up_screen_whith_bloc.dart
+│   ├── auth/
+│   │   ├── bloc/
+│   │   │   ├── login_bloc.dart
+│   │   │   ├── login_event.dart
+│   │   │   └── login_state.dart
+│   │   │
+│   │   ├── models/
+│   │   │   └── auth_repo.dart
+│   │   │
+│   │   ├── forget_password_row.dart
+│   │   └── login_screen.dart
+│   │
+│   ├── singup/
+│   │   ├── bloc/
+│   │   │   ├── signup_bloc.dart
+│   │   │   ├── signup_event.dart
+│   │   │   └── signup_state.dart
+│   │   │
+│   │   └── screens/
+│   │       └── sing_up_screen_whith_bloc.dart
 │
 ├── nav_feature/
-│ └── nav_examples.dart
+│   └── nav_examples.dart
 │
 ├── utils/
-│ ├── app_strings.dart
-│ ├── app_colors.dart
-│ └── form_validator.dart
+│   ├── app_strings.dart
+│   ├── app_colors.dart
+│   └── form_validator.dart
 │
 └── main.dart
+
 
 📬 Contact
 💡 Developed by Shrouk Nasser Ahmed
