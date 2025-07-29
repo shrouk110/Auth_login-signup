@@ -23,7 +23,8 @@ This project implements **Login**, **Sign Up**, and **Logout** flows with **form
 
 | Login Screen | Sign Up Screen |
 |--------------|----------------|
-| <img width="300" alt="sn2" src="https://github.com/user-attachments/assets/fcdb0730-d19c-421f-8bb1-2b823f3ba681" />| <img width="300"  alt="sn4" src="https://github.com/user-attachments/assets/a35af463-38a4-4d48-9d6c-3a460e78b1cb" />
+| <img width="300" alt="sn2" src="https://github.com/user-attachments/assets/fcdb0730-d19c-421f-8bb1-2b823f3ba681" />| <img width="1443" height="801" alt="يلا" src="https://github.com/user-attachments/assets/1cb70a0d-119b-4a7a-9806-e2ba708362a4" />
+
 
 
 ---
