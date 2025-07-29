@@ -1,6 +1,14 @@
 
 A new Flutter project.
-```markdown
+## 📸 Screenshots
+
+| Login Screen | Sign Up Screen |
+|--------------|----------------|
+| <img width="629" height="895" alt="sn1" src="https://github.com/user-attachments/assets/3b5c9201-c84a-420a-8e0e-a01dca4e63b5" />
+ | <img width="630" height="781" alt="sn3" src="https://github.com/user-attachments/assets/d3224ca3-90fa-4ac2-bdfb-567712e34f66" />
+ |
+
+---
 # 🚀 Flutter Auth App with BLoC & Firebase  
 An advanced **Authentication App** built using **Flutter**, **BLoC Pattern**, and **Firebase Authentication**.  
 This project implements **Login**, **Sign Up**, and **Logout** flows with **form validation**, and **state management** using BLoC.
