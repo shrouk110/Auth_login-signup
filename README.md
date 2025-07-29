@@ -1,5 +1,4 @@
 
-A new Flutter project.
 
 # 🚀 Flutter Auth App with BLoC & Firebase  
 An advanced **Authentication App** built using **Flutter**, **BLoC Pattern**, and **Firebase Authentication**.  
@@ -20,11 +19,12 @@ This project implements **Login**, **Sign Up**, and **Logout** flows with **form
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
-## 📸 Screenshots
+## 📸 Screenshots of authentication
 
 | Login Screen | Sign Up Screen |
 |--------------|----------------|
-| <img src="assets/screenshots/login.png" width="300"> | <img src="assets/screenshots/signup.png" width="300"> |
+| <img width="300" alt="sn2" src="https://github.com/user-attachments/assets/fcdb0730-d19c-421f-8bb1-2b823f3ba681" />| <img width="300"  alt="sn4" src="https://github.com/user-attachments/assets/a35af463-38a4-4d48-9d6c-3a460e78b1cb" />
+
 
 ---
 
@@ -39,3 +39,40 @@ This project implements **Login**, **Sign Up**, and **Logout** flows with **form
 ---
 
 ## 📂 Project Structure
+lib/
+│
+├── features/
+│ ├── auth/
+│ │ ├── bloc/
+│ │ │ ├── login_bloc.dart
+│ │ │ ├── login_event.dart
+│ │ │ └── login_state.dart
+│ │ ├── models/
+│ │ │ └── auth_repo.dart
+│ │ ├── forget_password_row.dart
+│ │ └── login_screen.dart
+│ │
+│ ├── singup/
+│ │ ├── bloc/
+│ │ │ ├── signup_bloc.dart
+│ │ │ ├── signup_event.dart
+│ │ │ └── signup_state.dart
+│ │ └── screens/
+│ │ └── sing_up_screen_whith_bloc.dart
+│
+├── nav_feature/
+│ └── nav_examples.dart
+│
+├── utils/
+│ ├── app_strings.dart
+│ ├── app_colors.dart
+│ └── form_validator.dart
+│
+└── main.dart
+
+📬 Contact
+💡 Developed by Shrouk Nasser Ahmed
+📧 Email: shrouk@example.com
+🔗 GitHub: Shrouk110
+
+
